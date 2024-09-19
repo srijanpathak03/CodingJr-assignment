@@ -4,7 +4,7 @@ This project is a TypeScript, Tailwind CSS, and Redux-based web application buil
 
 ## Demo
 
-[Visit the live demo here](#) 
+[Visit the live site here](https://codingjr-intern-assignment.netlify.app) 
 
 ![Screenshot of the website](./assets/images/CodingJrAssignment.png)
 
